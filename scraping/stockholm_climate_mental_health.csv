@@ -1,0 +1,6 @@
+city,study,variable,value,season,effect_size,notes
+Stockholm,CLIMENT Project,Solar radiation,↓ in winter,Winter,Increased sickness absence (qualitative),Less sunlight linked to reduced well-being and increased sickness absence
+Stockholm,CLIMENT Project,Rainfall,↑ in fall/winter,Fall/Winter,Qualitative link to behavioral effects,High rainfall and low daylight associated with lower performance and higher absenteeism
+Stockholm,CLIMENT Project,Temperature,↓ in winter,Winter,Indirect effects on well-being,Cold temperatures combined with less daylight may impact mental health
+Stockholm,Green exposure during COVID-19,NDVI (Green exposure),High NDVI,Spring/Summer,"↓ Depression, anxiety; ↑ Vitality",Participants with higher greenspace exposure reported better mental health outcomes
+Stockholm,Green exposure during COVID-19,Distance to green,<500m,Spring/Summer,Stronger positive effect,Closer green areas had stronger associations with better mental health
